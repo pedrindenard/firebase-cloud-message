@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857056622749",
+    "project_id": "notificationapp-7e293",
+    "storage_bucket": "notificationapp-7e293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857056622749:android:7680160912ab2e827dbc74",
+        "android_client_info": {
+          "package_name": "com.pdm.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857056622749-713ln9l7p905cmat566butrlsn3dcags.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSNZJ8CWh2VcsQ0g34U0UwIik2D69r8Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857056622749-713ln9l7p905cmat566butrlsn3dcags.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
